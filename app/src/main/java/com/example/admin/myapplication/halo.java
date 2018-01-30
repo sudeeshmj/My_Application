@@ -6,3 +6,8 @@ package com.example.admin.myapplication;
 public class halo {
     int i= 1+1;
 }
+public void mul
+{
+int j=2*2;
+
+}
